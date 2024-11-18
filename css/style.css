@@ -188,6 +188,7 @@ main {
 
     .change-plan {
         font-size: 14px;
+        transition: all ease 0.3s;
     }
 
     .change-plan:hover {
@@ -197,6 +198,7 @@ main {
 
     .button-for-buy {
         margin-bottom: 32px;
+        transition: all ease 0.3s;
     }
 
     .button-for-buy:hover {
@@ -204,6 +206,7 @@ main {
     }
 
     .button-to-back:hover {
+        transition: all ease 0.3s;
         color: var(--title);
     }
 }
